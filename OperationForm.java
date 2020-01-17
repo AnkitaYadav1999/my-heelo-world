@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+// Basic calc example
 class OperationForm extends JFrame implements ActionListener
 {
 	JLabel value1,value2,result;
